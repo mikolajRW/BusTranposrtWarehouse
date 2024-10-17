@@ -1,0 +1,8 @@
+DROP TABLE Stops
+DROP TABLE Stations
+DROP TABLE Courses
+DROP TABLE Drivers
+DROP TABLE Services
+DROP TABLE Repairs
+DROP TABLE Buses
+DROP TABLE BusVariants
