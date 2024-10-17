@@ -1,0 +1,10 @@
+ZTMotion - csv file
+Sheet 1 (Information about bus stops contained in particular course in Gdańsk city, each row describes one stop in one course, row 1 is a header row):
+Column A - Identification number of course in which the stop is contained (Integer),
+Column B - Identification number of a bus stop (Integer),
+Column C - Operating bus line number (Char, Combinations of letters and numbers),
+Column D - Planned time arrival (Datetime),
+Column E - Delay (Integer),
+Column F - Stop time (Integer),
+Column G - On demand (Bool),
+Column H - Failure action (Char(4), None, Take, Give)
